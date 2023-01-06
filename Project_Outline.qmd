@@ -44,8 +44,6 @@ is there a relationship between professionalisation and types of gentrification,
 
 
 
-
-
 ### How will it meet the assessment’s stated aims?
 
 *Why would this topic be of interest to the intended audience?*
@@ -54,9 +52,15 @@ is there a relationship between professionalisation and types of gentrification,
 
 *What data will this briefing require in order to achieve its aims and what are the strengths and limitations of these data?*
 
+- Inside Airbnb dataset
+- Cultural infrastructure points (GLA)
+- Yee/Dennett gentrification classifications (published analysis of census data)
+
 ### What techniques do you expect to use?
 
 *Which of the techniques covered in-class (or **not** in class!) do you expect to use in order to write the briefing and why?*
+
+- Multiple linear regression
 
 ### What findings do you expect and how will you present them?
 

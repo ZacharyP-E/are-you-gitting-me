@@ -1,0 +1,155 @@
+---
+title: "Policy Brief: Airbnb, culture, and hotels"
+format: 
+  pdf:
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
+    #documentclass: report
+    mainfont: "Calibri" # 
+    sansfont: "Calibri"   # 
+    monofont: "Calibri" # 
+    papersize: a4
+    geometry:
+      - top=25mm
+      - left=40mm
+      - right=30mm
+      - bottom=25mm
+      - heightrounded
+    toc: false
+    number-sections: true
+    colorlinks: true
+    highlight-style: github
+---
+
+
+
+# Evaluate whether we should encourage Airbnb operation in relationship to hotels: A Cultural perspective
+
+## Greater London Authority Briefing: Arts & Culture
+
+*Instruction:*
+
+*The briefing will be written as if to update the Mayor of the Greater London Authority on the challenges/opportunities relating to Airbnb’s operations in London. As such, the Policy Briefing will begin with a short Summary, including Key Findings and, if desired, Recommendations; this will typically be followed by a brief review of the evidence from London (and potentially elsewhere, if relevant) and an analysis supported by the data. Your analysis will be supported using appropriately selected and generated tables, charts, and maps.*
+
+## Executive Summary (200)
+
+This report presents an overview of how Airbnb listings cluster together with hotels and cultural infrastructure. 
+
+It finds that:
+
+1. 
+2. 
+
+These findings are important because:
+
+1. 
+2. 
+
+Its key recommendations are:
+
+1. 
+2. 
+3. 
+
+## Background (650)
+
+Brief: Should we promote airbnbs operations or support the hotel economy that is better regulated and taxed within the cultural context
+
+### Policy Standing
+
+- Airbnb are less regulated
+- Hotels are better taxed
+- Airbnb allows for a geographically wider tourist economy
+- Hotels remains relatively ridgid in already economically and culturally dense areas.
+
+### Airbnb & Hotels
+
+- Competing markets.
+- Rise of airbnb threatens hotel industry.
+- Zervas et al. (2017) -- The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry
+
+### Culture & Airbnb
+
+- Airbnbs more closely track cultural activities occuring beyond saturated economic zones (zone 1).
+- Sun, Wang, Hu (2022): Spatial distribution of Airbnb and its influencing factors: A case study of Suzhou, China https://www.sciencedirect.com/science/article/pii/S0143622822000121?casa_token=joliGEi-ULoAAAAA:0DyaimcL740GWbAQkCETruBOabQvrCcCwyX934W7U-asYrTR6PCVDBQBnG_bwenMA9XAUVZ98w
+- 
+
+### Hotel & Culture
+
+- Often established in economic zones
+- Donald McNeill (2008): Hotel and the city
+
+## Objectives (200)
+
+### Given the benefit airbnb brings into the culture economy, should we encourage its operations?
+
+### If so, where so that it does not undermine the hotel industry?
+
+- We want to keep hotels going because of good established tax and regulations.
+
+## Summary of Key Findings (200)
+
+Identified 5 categories in the airbnb, cuture, hotel triad.
+
+## Extended Results/Policy Discussion (850)
+
+### Case Study: Westminster - what counts as culture? 
+
+The borough of Westminster contains some counterintuitive results results. It contains areas matching all five classifications - ranging from blue (low in all three categories) to red (high in all three categories). This could either be due to Westminster's specific character, or to a vulnerability in the underlying data. Given that Westminster contains major tourist attractions such as Hyde Park and Buckingham Palace, as well as parts of London's theatre district, it is unlikely to be the former. This means that interrogating these findings with ground-truthed local knowledge is important to verifying and testing them.
+
+## Conclusion (250)
+
+## Appendix: Methodology & Data (100)
+
+## References
+
+https://discovery.ucl.ac.uk/id/eprint/10120512/1/0042098020970865.pdf
+
+Foster (2015) https://www.theguardian.com/housing-network/2015/dec/07/housing-right-to-buy-margaret-thatcher-data
+
+Wachsmuth D and Weisler A (2018) Airbnb and the rent gap: Gentrification through the sharing economy https://doi.org/10.1177/0308518X1877803
+
+Harris 2018: Airbnb + Communities https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities
+
+https://england.shelter.org.uk/support_us/campaigns/social_housing_deficit
+
+Trust for London nd [https://www.trustforlondon.org.uk/data/housing-tenure-over-time/#:~:text=Rates%20of%20home%20ownership%20peaked,fallen%20to%2020.7%25%20in%202020](https://www.trustforlondon.org.uk/data/housing-tenure-over-time/#:~:text=Rates of home ownership peaked,fallen to 20.7% in 2020).
+
+Deboosere, R., Kerrigan, D.J., Wachsmuth, D. and El-Geneidy, A., 2019. Location, location and professionalization: a multilevel hedonic analysis of Airbnb listing prices and revenue. Regional Studies, Regional Science, 6(1), pp.143-156.
+
+Li, J., Moreno, A., & Zhang, D. J. (2015). Agent behavior in the sharing economy: Evidence from Airbnb. Ross School of Business Working Paper Series, 1298, 2015.
+
+Future of London 2017 https://www.futureoflondon.org.uk/wp-content/uploads/delightful-downloads/2017/12/FoL-Engaging-Londons-PRS-WEB.pdf
+
+London Borough of Culture (nd) https://www.london.gov.uk/sites/default/files/mol_lboc_impact_report_2022_a4_digital_version.pdf
+
+Mould 2017 https://www.opendemocracy.net/en/opendemocracyuk/why-culture-competitions-and-artwashing-drive-urban-inequality/
+
+Tamsin Cox & Dave O'Brien (2012) The “scouse wedding” and other myths: reflections on the evolution of a “Liverpool model” for culture-led urban regeneration, Cultural Trends, 21:2, 93-101, DOI: 10.1080/09548963.2012.674749
+
+## Cultural Infrastructure
+
+### Role of Culture in Urban Processes
+
+### Classification of cultural infrastructure
+
+J Allen Whitt 1987: The Arts Coalition and the Urban Growth Machine
+
+*High Arts & the Upper Class*:
+
+# Methodology
+
+
+
+1.    Objectives (~200)
+2.    Summary of Key Findings (~200)
+3.    Extended Results/Policy Discussion (~850)
+4.    Conclusion (~250)
+5.    Appendix: Methodology & Data (~100)
+6.    References
+
+
+
+
+

@@ -94,6 +94,10 @@ Identified 5 categories in the airbnb, cuture, hotel triad.
 
 ## Extended Results/Policy Discussion (850)
 
+
+
+![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset).png)
+
 ### Case Study: Westminster - what counts as culture? 
 
 The borough of Westminster contains some counterintuitive results results. It contains areas matching all five classifications - ranging from blue (low in all three categories) to red (high in all three categories). This could either be due to Westminster's specific character, or to a vulnerability in the underlying data. Given that Westminster contains major tourist attractions such as Hyde Park and Buckingham Palace, as well as parts of London's theatre district, it is unlikely to be the former. This means that interrogating these findings with ground-truthed local knowledge is important to verifying and testing them.

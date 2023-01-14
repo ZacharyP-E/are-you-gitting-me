@@ -116,6 +116,12 @@ A key takeaway from this map is how few areas with high or medium hotel density 
 
 The borough of Westminster contains some counterintuitive results results. It contains areas matching all five classifications - ranging from blue (low in all three categories) to red (high in all three categories). This could either be due to Westminster's specific character, or to a vulnerability in the underlying data. Given that Westminster contains major tourist attractions such as Hyde Park and Buckingham Palace, as well as parts of London's theatre district, it is unlikely to be the former. This means that interrogating these findings with ground-truthed local knowledge is important to verifying and testing them.
 
+### Case Study: Croydon 
+- Airbnb acts as an accelerator for culture, providing accommodation in areas of emerging cultural development, what the hotel industry can’t immediately accommodate. Croydon is a prime example of such. Located in zone 5, Croydon has won a £1 million bid in cultural funding, named the London Borough of Culture of 2023. Recognised for its emerging cultural importance within London, in particular, Boxpark, Croydon Pride Festival, the prominent black-led Talawa Theatre Company and The Ends music Festival, Croydon serves as a cultural hub for black British culture, and attracting much more. Airbnb’s flexible operations had encouraged extra-Croydon visitors.
+
+
+
+
 ## Conclusion (250)
 
 ## Appendix: Methodology & Data (100)

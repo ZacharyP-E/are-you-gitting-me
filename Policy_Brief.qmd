@@ -80,6 +80,10 @@ Brief: Should we promote airbnbs operations or support the hotel economy that is
 - Often established in economic zones
 - Donald McNeill (2008): Hotel and the city
 
+
+
+![Venn Diagram of instersection between Culture, Hotel and AirBnB Density](figures/venn_brief.png)
+
 ## Objectives (200)
 
 ### Given the benefit airbnb brings into the culture economy, should we encourage its operations?
@@ -94,7 +98,9 @@ Identified 5 categories in the airbnb, cuture, hotel triad.
 
 ## Extended Results/Policy Discussion (850)
 
+5 distinct groups were identified using the cluster analysis, allowing neighbourhoods of London with potential for more  AirBnB's to be recognised. 
 
+In Figure x, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
 
 ![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset).png)
 
@@ -105,6 +111,12 @@ The borough of Westminster contains some counterintuitive results results. It co
 ## Conclusion (250)
 
 ## Appendix: Methodology & Data (100)
+
+Clustering analysis was used to identify broad characteristics of neighnbourhoods (LSOAs) across Greater London. The following three variables were used:
+
+- Hotel Density
+- AirBnB Density
+- Cultural Density
 
 
 
@@ -133,6 +145,8 @@ London Borough of Culture (nd) https://www.london.gov.uk/sites/default/files/mol
 Mould 2017 https://www.opendemocracy.net/en/opendemocracyuk/why-culture-competitions-and-artwashing-drive-urban-inequality/
 
 Tamsin Cox & Dave O'Brien (2012) The “scouse wedding” and other myths: reflections on the evolution of a “Liverpool model” for culture-led urban regeneration, Cultural Trends, 21:2, 93-101, DOI: 10.1080/09548963.2012.674749
+
+Li, H. and Srinivasan, K., 2019. Competitive dynamics in the sharing economy: An analysis in the context of Airbnb and hotels. *Marketing Science*, *38*(3), pp.365-391.
 
 ## Cultural Infrastructure
 

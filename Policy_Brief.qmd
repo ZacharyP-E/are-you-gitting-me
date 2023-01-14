@@ -1,14 +1,13 @@
 ---
-title: "Policy Brief: Airbnb, culture, and hotels"
-format: 
+title: 'Policy Brief: Airbnb, culture, and hotels'
+format:
   pdf:
     include-in-header:
       text: |
         \addtokomafont{disposition}{\rmfamily}
-    #documentclass: report
-    mainfont: "Calibri" # 
-    sansfont: "Calibri"   # 
-    monofont: "Calibri" # 
+    mainfont: Calibri
+    sansfont: Calibri
+    monofont: Calibri
     papersize: a4
     geometry:
       - top=25mm
@@ -20,9 +19,18 @@ format:
     number-sections: true
     colorlinks: true
     highlight-style: github
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.14.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
-
-
 
 # Evaluate whether we should encourage Airbnb operation in relationship to hotels: A Cultural perspective
 
@@ -116,8 +124,29 @@ A key takeaway from this map is how few areas with high or medium hotel density 
 
 The borough of Westminster contains some counterintuitive results results. It contains areas matching all five classifications - ranging from blue (low in all three categories) to red (high in all three categories). This could either be due to Westminster's specific character, or to a vulnerability in the underlying data. Given that Westminster contains major tourist attractions such as Hyde Park and Buckingham Palace, as well as parts of London's theatre district, it is unlikely to be the former. This means that interrogating these findings with ground-truthed local knowledge is important to verifying and testing them.
 
-### Case Study: Croydon 
-- Airbnb acts as an accelerator for culture, providing accommodation in areas of emerging cultural development, what the hotel industry can’t immediately accommodate. Croydon is a prime example of such. Located in zone 5, Croydon has won a £1 million bid in cultural funding, named the London Borough of Culture of 2023. Recognised for its emerging cultural importance within London, in particular, Boxpark, Croydon Pride Festival, the prominent black-led Talawa Theatre Company and The Ends music Festival, Croydon serves as a cultural hub for black British culture, and attracting much more. Airbnb’s flexible operations had encouraged extra-Croydon visitors.
+### Case Study: Croydon  
+Airbnb acts as an accelerator for culture, providing accommodation in areas of emerging cultural development, what the hotel industry can’t immediately accommodate. Croydon is a prime example of such. Located in zone 5, Croydon has won a £1 million bid in cultural funding, named the London Borough of Culture of 2023. Recognised for its emerging cultural importance within London, in particular, Boxpark, Croydon Pride Festival, the prominent black-led Talawa Theatre Company and The Ends music Festival, Croydon serves as a cultural hub for black British culture, and attracting much more. Airbnb’s flexible operations had encouraged extra-Croydon visitors.  
+
+### Case study: East London  
+Outside of the core cluster in central London, a node of 'culture dense' neighbourhoods is identified in East London, centred on Shoreditch and Spitalfields, and stretching outward to Haggerston, Dalston and Bethnal Green. These neighbourhoods are characterised by a high density of music venues and pubs in close proximity with artist workspaces, creative co-working spaces, and community centres.
+
+
+
+*Notes on Cluster Zero (for reference; not for inclusion in final report)*
+
+Cluster zero is characterised by areas that contain the highest density of cultural points but a medium level of Airbnb listings and hotels, comparative to the whole of Greater London. The cluster is restricted to inner-city boroughs, in areas with well-established cultural institutions, creative communities, and night-time economies. The key neighbourhoods identified were:  
+
+1. Central London, encompassing Covent Garden, Soho, and Bloomsbury,
+
+2. Inner East (Shoreditch and Spitalfields),
+
+3. Hackney and Mid East, centred around Dalston, Haggerston and Bethnal Green,
+
+4. Inner North, including Camden Town, King’s Cross, and Islington, and
+
+5. South, at London Bridge and New Cross.  
+
+Central London forms the core of this ‘high culture’ cluster, with a huge variety of cultural points, including the theatres and performance venues of the West End, the galleries, libraries of archives of the British Museum and university campuses in Bloomsbury, and pubs and music venues throughout that fuel the night time economy. The predominance of commercial, cultural and community spaces likely limits the availability of residential housing which could be converted to Airbnb.  In East London, neighbourhoods in Dalston and Haggerston are characterised by a high density of music venues and pubs in close proximity with artist workspaces, creative co-working spaces, and community centres. A similar pattern is evident in Bethnal Green, although with a greater share of galleries and archival spaces. In the south east, New Cross is an anomalous LSOA in identified in Cluster zero. This is likely due to Cockpit Arts, a studio and design space that houses multiple independent artists and design studios, and which forms a key source of cultural infrastructure in the neighbourhood.
 
 
 
@@ -182,8 +211,4 @@ J Allen Whitt 1987: The Arts Coalition and the Urban Growth Machine
 4.    Conclusion (~250)
 5.    Appendix: Methodology & Data (~100)
 6.    References
-
-
-
-
 

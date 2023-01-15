@@ -62,33 +62,15 @@ Its key recommendations are:
 
 ## Background (650)
 
-Brief: Should we promote airbnbs operations or support the hotel economy that is better regulated and taxed within the cultural context
+### Role of culture in the city
+Culture is an important tool for tourism and urban development. According to Mayor of London, 4 out of 5 travellers indicated ‘culture’ as their main reason for visiting London, contributing £52 billion each year to London’s economy (n.d.). London’s varied cultural offerings constitutes of world class destinations such as the Buckingham Palace, the West End and internationally acclaimed museums. Not only that, London is also at the heart of emergent culture, with a vibrant music scene, night life, and diverse culture – a hotbed for creativity. With the rise of Airbnb, the distribution of travel accommodations has dispersed from traditionally central London, towards the periphery of the city where emergent are located. This brief explores how Airbnb operations interact with London’s cultural infrastructure and its hotel industry, with aims to suggest regulatory policies that allows local residents to benefit from Airbnb, control gentrification, whilst protecting the hotel industry.
 
-### Policy Standing
+### Airbnb in London
+Airbnb brands itself as a tool for the sharing economy, where property owners are given the opportunity to let temporarily vacant rooms or properties for short-term stays. Airbnb has proven to be beneficial for local residents to temporarily let our parts of their home to visitors, providing an alternative source of income as well as accumulating the tourist dollar in the local area. **find readings/stats.** However, the digital platform has also been heavily criticised for its impact on accelerating gentrification. According to studies, this phenomenon is driven by the increasingly professionalisation of Airbnb, which is also continuously contributing to London's affordability crisis (Wachsmuth and Weisler 2018; Harris 2018; Lee 2016). Professional hosts - i.e. those with more than one Airbnb listing, often buy up existing housing stock in culturally desirable areas to let out on Airbnb, earning up to 16.9% higher daily revenue on their properties than non-professional hosts (Li et al. 2015). This does not only reduce available housing stock for permanent residents, it also drives up prices of local properties and goods and services, further displacing local Londoners.
 
-- Airbnb are less regulated
-- Hotels are better taxed
-- Airbnb allows for a geographically wider tourist economy
-- Hotels remains relatively ridgid in already economically and culturally dense areas.
-- Central London is expensive and saturated (difficult to penetrate for new hotels)
-- Outlying areas with relatively high concentration of Airbnbs and cultural infrastructure may hold unrealised opportunity for the hotel industry
+###Airbnb and Hotels
+The digital platform has significantly disrupted the hotel industry since it entered the market in 2015. While hotels were one of the few options for travel accommodations, Airbnb has taken a larger scale of the market at the moment by providing a wide variety of dwelling types, cheaper rental prices and a sense of authenticity. Studies have shown that the Hotel industry has lost XXX in profit since the dawn of Airbnb. Some have argued Airbnb has directly plummeted travel bookings in hotels. **The hotel industry….. ***From a regulatory perspective, the well monitored, well taxed, established hotel industries, often located in the culturally dense areas needs to be protected. However some might argue the opposite. As studies found, Airbnb and hotels fulfil a different type of accommodation needs, such that they do not directly compete with each other. 
 
-### Airbnb & Hotels
-
-- Competing markets.
-- Rise of airbnb threatens hotel industry.
-- Zervas et al. (2017) -- The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry
-
-### Culture & Airbnb
-
-- Airbnbs more closely track cultural activities occurring beyond saturated economic zones (zone 1).
-- Sun, Wang, Hu (2022): Spatial distribution of Airbnb and its influencing factors: A case study of Suzhou, China https://www.sciencedirect.com/science/article/pii/S0143622822000121?casa_token=joliGEi-ULoAAAAA:0DyaimcL740GWbAQkCETruBOabQvrCcCwyX934W7U-asYrTR6PCVDBQBnG_bwenMA9XAUVZ98w
-- 
-
-### Hotel & Culture
-
-- Often established in economic zones
-- Donald McNeill (2008): Hotel and the city
 
 
 

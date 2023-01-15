@@ -42,37 +42,61 @@ jupyter:
 
 ## Executive Summary (200)
 
-This report presents an overview of how Airbnb listings cluster together with hotels and cultural infrastructure. 
+
+This brief explores how Airbnb’s operations interact with London’s cultural infrastructure – such as theatres, museums, music venues, pubs  – as well as its hotel industry, to build a holistic picture of Airbnb’s short- and long-term impact on culture across Greater London.
+
 
 It finds that:
 
 1. 
-2. 
+2. There are several areas, including X, Y and Z,  continue to benefit economically from the presence of Airbnbs. But that others, such as X, Y and Z, would benefit from intervention from City Hall to avoid rising prices and the displacement of local residents.
 
 These findings are important because:
 
 1. 
 2. 
 
-Its key recommendations are:
+It recommends the following policies to ensure Londoners can benefit from the presence of Airbnb and the hotel industry does not suffer an additional hit as it emerges from pandemic restrictions:
 
-1. 
-2. 
-3. 
+•	X;
+•	Y; and
+•	Z.
+
 
 ## Background (650)
 
 ###Role of culture in the city
-Culture is an important tool for tourism and urban development. According to Mayor of London, 4 out of 5 travellers indicated ‘culture’ as their main reason for visiting London, contributing £52 billion each year to London’s economy (n.d.). London’s varied cultural offerings constitutes of world class destinations such as the Buckingham Palace, the West End and internationally acclaimed museums. Not only that, London is also at the heart of emergent culture, with a vibrant music scene, night life, and diverse culture – a hotbed for creativity. With the rise of Airbnb, the distribution of travel accommodations has dispersed from traditionally central London, towards the periphery of the city where emergent are located. This brief explores how Airbnb operations interact with London’s cultural infrastructure and its hotel industry, with aims to suggest regulatory policies that allows residents to benefit from Airbnb, control gentrification, whilst protecting the hotel industry.
+
+London’s leading cultural status is crucial for its tourist economy and the continued development of neighbourhoods across the city. Four of every five visitors to London marked culture as their main reason for coming to London in YEAR (Mayor of London, nd), with the wider tourist economy contributing £52 billion to the city annually.
+
+London is unique in the variety and fame of its cultural offerings, including Buckingham Palace, the West End and a range of internationally acclaimed museums. But it is also at the forefront of emergent culture, with its vibrant music scene, night life, and diverse culture making it a hotbed for creativity.
+
+In recent years, the rise of Airbnb has contributed to a greater distribution of travel accommodation outside of central London and into areas of the city formerly overlooked by the tourism industry, but where some of our greatest emergent talent is located.
+
+The growth of Airbnb presents substantial opportunities to the growing tourism sector outside of Zone One. But, with growing concern about impact of short-term lets on housing affordability and community displacement, it is possible that the long-term impacts of Airbnb use may harm these areas’ cultural offering.
 
 ### Airbnb in London
-Airbnb brands itself as a tool for the sharing economy, where property owners are given the opportunity to let temporarily vacant rooms or properties for short-term stays. Airbnb has proven to be beneficial for residents to temporarily let out their homes to visitors, providing an alternative source of income as well as accumulating the tourist dollar in the local area (Henama, 2018). Study based in Texas found a 1% increase in Airbnb reviews in an area is associated with a 0.011% increase in restaurant revenue (Basuroy et al, 2020). However, the digital platform has also been heavily criticised for its impact on accelerating gentrification. According to studies, this phenomenon is largely driven by the increasingly professionalisation of the platform, which is also continuously contributing to London's affordability crisis (Wachsmuth and Weisler 2018; Harris 2018; Lee 2016). Professional hosts - i.e. those with more than one Airbnb listing, often buy up existing housing stock in culturally desirable areas to let out on Airbnb, earning up to 16.9% higher daily revenue on their properties than non-professional hosts (Li et al. 2015). This does not only reduce available housing stock for permanent residents, it also drives up prices of local properties and goods and services, further displacing local Londoners. This brief seeks to a balance solution to reap the benefits of the sharing economy, without displacing incumbent residents. Many scholar have found that the benefits of Airbnb tend to subsides after a certain threshold (Fang, Ye, Law (2015)). This brief aims to identify areas where Airbnb’s operations is still making a positive impact on the local economy, and where intervention needs to be implemented to avoid displacement and an Airbnb monopoly within the tourist accommodation sector. 
+
+Airbnb brands itself as a tool for the sharing economy, where property owners are given the opportunity to let temporarily vacant rooms or properties for short-term stays. This temporary, casual use provides additional income for residents able to let out their homes where they – for example – have gone on holiday or are visiting family overseas and has led to growing tourist spending in areas local to Airbnbs (Henama, 2018).
+
+The food industry can provide an example of the potential of local growth from Airbnb listings. A Texas-based study found a one per cent increase in local Airbnb reviews is associated with a 0.011 per cent increase in restaurant revenue (Basuroy et al., 2020). While no comparable study has been produced for London, applying Basuroy’s figures to London would see a uniform one per cent increase in Airbnb listings across London associated with a growth of £94 million in annual restaurant turnover alone.
+
+However, the platform has also been heavily criticised for accelerating gentrification. The growth of Airbnb is now largely driven by the professionalisation of the platform, meaning that hosts are increasingly buying or converting additional existing properties into Airbnbs, a factor contributing to shortages in long-term lets and sharp increases in housing costs. (Wachsmuth and Weisler 2018; Harris 2018; Lee 2016).
+
+Professional hosts, defined as those who hold more than one Airbnb listing, earn up to 16.9 per cent higher daily revenue on their properties than non-professional hosts (Li et al. 2015).  Professional hosts are able to pursue more profitable listings by purchasing housing stock in culturally desirable areas; this not only reduce available housing stock for long-term residents, but also drives up prices of local goods and services, including rents for local traders, further displacing local communities.
+
+This brief looks for a balanced solution, where London is able to reap the significant economic benefits of the sharing economy, without displacing local residents and undermining their significant cultural contribution to the city.
+
+The literature indicates that the benefits of Airbnb tend to subside after they pass a threshold of professionalisation (Fang, Ye, Law, 2015). This brief identifies key areas where Airbnb’s operations continue to make a positive impact on local economies, and areas where interventions should be implemented to avoid the displacement of local residents and a monopoly of professional Airbnb hosts.
 
 ###Airbnb and Hotels
-The digital platform has significantly disrupted the hotel industry since it entered the market in 2015. While hotels were one of the few options for travel accommodations, Airbnb has now taken a larger scale of the market by providing a wide variety of dwelling types, cheaper rental prices and a sense of authenticity. Studies have shown that the Hotel industry has lost XXX in profit since the dawn of Airbnb. Some have found 1% increase in Airbnb listing has led to a 0.04% decrease in hotel revenue (Zervas, Proserpio, & Byers, 2016). From a regulatory perspective, the well monitored, well taxed, established hotel industries, often located in the culturally dense areas needs to be protected. However, some might argue the opposite. As studies found, Airbnb and hotels fulfil a different type of accommodation needs, such that they do not directly compete. 
+
+Airbnb resulted in a significant disruption of the hotel industry after it entered the market in 2015. However, they also provide a more flexible complement to the hotel industry, where the lengthy and costly process of building hotels is not yet economically viable for developers in emergent tourist destinations.
+
+Presenting an alternative to hotels – one of traditionally few options for temporary accommodation – the platform has growth rapidly in the last eight years by providing a wide variety of dwelling types, cheaper rental prices and a sense of authenticity. Some studies have found the hotel industry experiences an average 0.04 per cent decrease in hotel revenue for every one per cent in Airbnb listings (Zervas, Proserpio, & Byers, 2016).
 
 
-(wc: 583)
+(wc: 720)
 
 
 ![Venn Diagram of instersection between Culture, Hotel and AirBnB Density](figures/venn_brief.png)

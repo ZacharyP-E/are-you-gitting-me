@@ -1,0 +1,235 @@
+---
+title: 'Policy Brief: Airbnb, culture, and hotels'
+format:
+  pdf:
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
+    mainfont: Calibri
+    sansfont: Calibri
+    monofont: Calibri
+    papersize: a4
+    geometry:
+      - top=25mm
+      - left=40mm
+      - right=30mm
+      - bottom=25mm
+      - heightrounded
+    toc: false
+    number-sections: true
+    colorlinks: true
+    highlight-style: github
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.14.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
+---
+
+# Evaluate whether we should encourage Airbnb operation in relationship to hotels: A Cultural perspective
+
+## Greater London Authority Briefing: Arts & Culture
+
+## Executive Summary (200)
+
+
+This brief explores how Airbnb’s operations interact with London’s cultural infrastructure – such as theatres, museums, music venues, pubs  – as well as its hotel industry, to build a holistic picture of Airbnb’s short- and long-term impact on culture across Greater London.
+
+
+It finds that:
+
+1. 
+2. There are several areas, including X, Y and Z,  continue to benefit economically from the presence of Airbnbs. But that others, such as X, Y and Z, would benefit from intervention from City Hall to avoid rising prices and the displacement of local residents.
+
+These findings are important because:
+
+1. 
+2. 
+
+It recommends the following policies to ensure Londoners can benefit from the presence of Airbnb and the hotel industry does not suffer an additional hit as it emerges from pandemic restrictions:
+
+•	X;
+•	Y; and
+•	Z.
+
+
+## Background (650)
+
+### Role of culture in the city
+
+London’s leading cultural status is crucial for its tourist economy and the continued development of neighbourhoods across the city. Four of every five visitors to London marked culture as their main reason for coming to London in YEAR (Mayor of London, nd), with the wider tourist economy contributing £52 billion to the city annually.
+
+London is unique in the variety and fame of its cultural offerings, including Buckingham Palace, the West End and a range of internationally acclaimed museums. But it is also at the forefront of emergent culture, with its vibrant music scene, night life, and diverse culture making it a hotbed for creativity.
+
+In recent years, the rise of Airbnb has contributed to a greater distribution of travel accommodation outside of central London and into areas of the city formerly overlooked by the tourism industry, but where some of our greatest emergent talent is located.
+
+The growth of Airbnb presents substantial opportunities to the growing tourism sector outside of Zone One. But, with growing concern about impact of short-term lets on housing affordability and community displacement, it is possible that the long-term impacts of Airbnb use may harm these areas’ cultural offering.
+
+### Airbnb in London
+
+Airbnb brands itself as a tool for the sharing economy, where property owners are given the opportunity to let temporarily vacant rooms or properties for short-term stays. This temporary, casual use provides additional income for residents able to let out their homes where they – for example – have gone on holiday or are visiting family overseas and has led to growing tourist spending in areas local to Airbnbs (Henama, 2018).
+
+The food industry can provide an example of the potential of local growth from Airbnb listings. A Texas-based study found a one per cent increase in local Airbnb reviews is associated with a 0.011 per cent increase in restaurant revenue (Basuroy et al., 2020). While no comparable study has been produced for London, applying Basuroy’s figures to London would see a uniform one per cent increase in Airbnb listings across London associated with a growth of £94 million in annual restaurant turnover alone.
+
+However, the platform has also been heavily criticised for accelerating gentrification. The growth of Airbnb is now largely driven by the professionalisation of the platform, meaning that hosts are increasingly buying or converting additional existing properties into Airbnbs, a factor contributing to shortages in long-term lets and sharp increases in housing costs. (Wachsmuth and Weisler 2018; Harris 2018; Lee 2016).
+
+Professional hosts, defined as those who hold more than one Airbnb listing, earn up to 16.9 per cent higher daily revenue on their properties than non-professional hosts (Li et al. 2015).  Professional hosts are able to pursue more profitable listings by purchasing housing stock in culturally desirable areas; this not only reduce available housing stock for long-term residents, but also drives up prices of local goods and services, including rents for local traders, further displacing local communities.
+
+This brief looks for a balanced solution, where London is able to reap the significant economic benefits of the sharing economy, without displacing local residents and undermining their significant cultural contribution to the city.
+
+The literature indicates that the benefits of Airbnb tend to subside after they pass a threshold of professionalisation (Fang, Ye, Law, 2015). This brief identifies key areas where Airbnb’s operations continue to make a positive impact on local economies, and areas where interventions should be implemented to avoid the displacement of local residents and a monopoly of professional Airbnb hosts.
+
+### Airbnb and Hotels
+
+Airbnb resulted in a significant disruption of the hotel industry after it entered the market in 2015. However, they also provide a more flexible complement to the hotel industry, where the lengthy and costly process of building hotels is not yet economically viable for developers in emergent tourist destinations.
+
+Presenting an alternative to hotels – one of traditionally few options for temporary accommodation – the platform has growth rapidly in the last eight years by providing a wide variety of dwelling types, cheaper rental prices and a sense of authenticity. Some studies have found the hotel industry experiences an average 0.04 per cent decrease in hotel revenue for every one per cent in Airbnb listings (Zervas, Proserpio, & Byers, 2016).
+
+
+(wc: 720)
+
+
+![Venn Diagram of instersection between Culture, Hotel and AirBnB Density](figures/venn_brief.png)
+
+## Objectives (200)
+
+### 
+
+#### Establish where there are overlaps and disconnects between AirBnB's operations, hotel density, and cultural infrastructure 
+
+#### Understand what these patterns mean for local socioeconomic contexts, given the known benefits and challenges associated with each sector
+
+#### Provide a set of city-level and local authority-level policy recommendations that strike a balance between regulation and support of AirBnB's operations, with the following second-order objectives: 
+
+- Stimulate opportunity for the hotel industry
+- Allow local residents to experience the benefits of AirBnB's operations without its negative consequences
+- Nurture and foster the symbiotic relationship between AirBnB and local culture 
+
+## Summary of Approach (200)
+
+Clustering analysis was used to identify broad characteristics of neighnbourhoods (LSOAs) across Greater London. The following three variables were used:
+
+- Hotel Density
+- AirBnB Density
+- Cultural Density
+
+The analysis meant finding the density of each activity per neighbourhood, examining its distribution throughout London, and mapping how these distributions relate to the other activities. For example, areas with high densities of all three activities would form one cluster, while areas with low densities of all three would form another. Five categories were identified through this  approach, providing insight into how AirBnB, culture, and the hotel industry interact throughout London.
+
+
+
+## Extended Results/Policy Discussion (850)
+
+
+
+5 distinct groups were identified using the cluster analysis, allowing neighbourhoods of London with potential for more  AirBnB's to be recognised. 
+
+In Figure x, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
+
+A key takeaway from this map is how few areas with high or medium hotel density there are: these are the red, green, and purple areas. The orange areas, which dominate most of central London and its surrounds, have relatively higher concentrations of Airbnbs. An important policy question for London is whether this imbalance represents a problem or opportunity for the city.
+
+![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset).png)
+
+
+
+### Case Study: Westminster - what counts as culture? 
+
+The borough of Westminster contains some counterintuitive results results. It contains areas matching all five classifications - ranging from blue (low in all three categories) to red (medium-to-high in all three categories). This could either be due to Westminster's specific character, or to a vulnerability in the underlying data. Given that Westminster contains major tourist attractions such as Hyde Park and Buckingham Palace, as well as parts of London's theatre district, it is unlikely to be the former. This means that interrogating these findings with ground-truthed local knowledge is important to verifying and testing them.
+
+### Case Study: Croydon  
+Airbnb acts as an accelerator for culture, providing accommodation in areas of emerging cultural development, what the hotel industry can’t immediately accommodate. Croydon is a prime example of such. Located in zone 5, Croydon has won a £1 million bid in cultural funding, named the London Borough of Culture of 2023. Recognised for its emerging cultural importance within London, in particular, Boxpark, Croydon Pride Festival, the prominent black-led Talawa Theatre Company and The Ends music Festival, Croydon serves as a cultural hub for black British culture, and attracting much more. Airbnb’s flexible operations had encouraged extra-Croydon visitors.  
+
+### Case study: East London  
+Outside of the core cluster in central London, a node of 'culture dense' neighbourhoods is identified in East London, centred on Shoreditch and Spitalfields, and stretching outward to Haggerston, Dalston and Bethnal Green. These neighbourhoods are characterised by a high density of music venues and pubs in close proximity with artist workspaces, studios, creative co-working spaces, and community centres. Like other neighbourhoods in the 'culture dense' cluster, these areas have well-established cultural institutions, creative communities, or night time economies, or a combination of all three. *add refs on gentrification in Shoreditch, Hackney* 
+
+
+*Notes on Cluster Zero (for reference; not for inclusion in final report)*
+
+Cluster zero is characterised by areas that contain the highest density of cultural points but a medium level of Airbnb listings and hotels, comparative to the whole of Greater London. The cluster is restricted to inner-city boroughs, in areas with well-established cultural institutions, creative communities, and night-time economies. The key neighbourhoods identified were:  
+
+1. Central London, encompassing Covent Garden, Soho, and Bloomsbury,
+
+2. Inner East (Shoreditch and Spitalfields),
+
+3. Hackney and Mid East, centred around Dalston, Haggerston and Bethnal Green,
+
+4. Inner North, including Camden Town, King’s Cross, and Islington, and
+
+5. South, at London Bridge and New Cross.  
+
+Central London forms the core of this ‘high culture’ cluster, with a huge variety of cultural points, including the theatres and performance venues of the West End, the galleries, libraries of archives of the British Museum and university campuses in Bloomsbury, and pubs and music venues throughout that fuel the night time economy. The predominance of commercial, cultural and community spaces likely limits the availability of residential housing which could be converted to Airbnb.  In East London, neighbourhoods in Dalston and Haggerston are characterised by a high density of music venues and pubs in close proximity with artist workspaces, creative co-working spaces, and community centres. A similar pattern is evident in Bethnal Green, although with a greater share of galleries and archival spaces. In the south east, New Cross is an anomalous LSOA in identified in Cluster zero. This is likely due to Cockpit Arts, a studio and design space that houses multiple independent artists and design studios, and which forms a key source of cultural infrastructure in the neighbourhood.
+
+
+
+
+## Conclusion (250)
+
+
+
+
+
+## References
+
+https://discovery.ucl.ac.uk/id/eprint/10120512/1/0042098020970865.pdf
+
+Foster (2015) https://www.theguardian.com/housing-network/2015/dec/07/housing-right-to-buy-margaret-thatcher-data
+
+Wachsmuth D and Weisler A (2018) Airbnb and the rent gap: Gentrification through the sharing economy https://doi.org/10.1177/0308518X1877803
+
+Harris 2018: Airbnb + Communities https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities
+
+https://england.shelter.org.uk/support_us/campaigns/social_housing_deficit
+
+Trust for London nd [https://www.trustforlondon.org.uk/data/housing-tenure-over-time/#:~:text=Rates%20of%20home%20ownership%20peaked,fallen%20to%2020.7%25%20in%202020](https://www.trustforlondon.org.uk/data/housing-tenure-over-time/#:~:text=Rates of home ownership peaked,fallen to 20.7% in 2020).
+
+Deboosere, R., Kerrigan, D.J., Wachsmuth, D. and El-Geneidy, A., 2019. Location, location and professionalization: a multilevel hedonic analysis of Airbnb listing prices and revenue. Regional Studies, Regional Science, 6(1), pp.143-156.
+
+Li, J., Moreno, A., & Zhang, D. J. (2015). Agent behavior in the sharing economy: Evidence from Airbnb. Ross School of Business Working Paper Series, 1298, 2015.
+
+Future of London 2017 https://www.futureoflondon.org.uk/wp-content/uploads/delightful-downloads/2017/12/FoL-Engaging-Londons-PRS-WEB.pdf
+
+London Borough of Culture (nd) https://www.london.gov.uk/sites/default/files/mol_lboc_impact_report_2022_a4_digital_version.pdf
+
+Mould 2017 https://www.opendemocracy.net/en/opendemocracyuk/why-culture-competitions-and-artwashing-drive-urban-inequality/
+
+Tamsin Cox & Dave O'Brien (2012) The “scouse wedding” and other myths: reflections on the evolution of a “Liverpool model” for culture-led urban regeneration, Cultural Trends, 21:2, 93-101, DOI: 10.1080/09548963.2012.674749
+
+Li, H. and Srinivasan, K., 2019. Competitive dynamics in the sharing economy: An analysis in the context of Airbnb and hotels. *Marketing Science*, *38*(3), pp.365-391.
+
+Ye Fang Law 2015 https://doi.org/10.1016/j.annals.2015.11.018
+
+Henama, U.S., 2018. Disruptive entrepreneurship using Airbnb: the South African experience. African Journal of Hospitality, Tourism and Leisure, 7(1), pp.1-16.
+
+Zervas, G., Proserpio, D. and Byers, J.W., 2017. The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry. Journal of marketing research, 54(5), pp.687-705.
+
+Basuroy, S., Kim, Y. and Proserpio, D., 2020. Estimating the impact of Airbnb on the local economy: Evidence from the restaurant industry. Available at SSRN 3516983.
+
+
+
+
+## Cultural Infrastructure
+
+### Role of Culture in Urban Processes
+
+### Classification of cultural infrastructure
+
+J Allen Whitt 1987: The Arts Coalition and the Urban Growth Machine
+
+*High Arts & the Upper Class*:
+
+# Methodology
+
+
+
+1.    Objectives (~200)
+2.    Summary of Key Findings (~200)
+3.    Extended Results/Policy Discussion (~850)
+4.    Conclusion (~250)
+5.    Appendix: Methodology & Data (~100)
+6.    References
+

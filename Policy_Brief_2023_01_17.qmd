@@ -32,7 +32,7 @@ jupyter:
     name: python3
 ---
 
-# Evaluate whether we should encourage Airbnb operation in relationship to hotels: A Cultural perspective
+# Evaluate whether Airbnb operation should be encouraged in relationship to hotels: A Cultural perspective
 
 ## Greater London Authority Briefing: Arts & Culture
 
@@ -127,13 +127,15 @@ The analysis meant finding the density of each activity per neighbourhood, exami
 
 
 
+![Spatial distributions of the three variables](figures/maps_of_variables.png)
+
 5 distinct groups were identified using the cluster analysis, allowing neighbourhoods of London with potential for more  AirBnB's to be recognised. 
 
-In Figure x, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
+In Figure 2, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
 
 A key takeaway from this map is how few areas with high or medium hotel density there are: these are the red, green, and purple areas. The orange areas, which dominate most of central London and its surrounds, have relatively higher concentrations of Airbnbs. An important policy question for London is whether this imbalance represents a problem or opportunity for the city.
 
-![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset).png)
+![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset)_dupsremoved.png)
 
 
 
@@ -167,9 +169,9 @@ Central London forms the core of this ‘high culture’ cluster, with a huge va
 
 
 
-## Conclusion (250)
+## Conclusion (50)
 
-
+With the resulting 5 groups of clusters it is proposed that  investments (maybe another word needed) should be made in select areas (orange?), allowing for a boost to the tourism sector, and therefore the creation of jobs. 
 
 
 

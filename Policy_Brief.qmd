@@ -98,9 +98,6 @@ Presenting an alternative to hotels – one of traditionally few options for tem
 
 (wc: 720)
 
-
-![Venn Diagram of instersection between Culture, Hotel and AirBnB Density](figures/venn_brief.png)
-
 ## Objectives (200)
 
 ### Given the benefit airbnb brings into the culture economy, should we encourage its operations?
@@ -121,11 +118,11 @@ Identified 5 categories in the airbnb, cuture, hotel triad.
 
 5 distinct groups were identified using the cluster analysis, allowing neighbourhoods of London with potential for more  AirBnB's to be recognised. 
 
-In Figure x, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
+In Figure 1, those areas with relatively low hotel density, and medium cultural and AirBnB density suggest that AirBnBs are a more mobile method of accommodation that follow cultural amenities. This is due to the inherent nature both forms face. Hotels are constrained to one locale, due to their more extensive regulation and operating cost. AirBnBs are more flexibile, on account of their (something to do with sharing economy; Li and Srinivasan,  2019)
 
 A key takeaway from this map is how few areas with high or medium hotel density there are: these are the red, green, and purple areas. The orange areas, which dominate most of central London and its surrounds, have relatively higher concentrations of Airbnbs. An important policy question for London is whether this imbalance represents a problem or opportunity for the city.
 
-![Identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset).png)
+![Cartographic visualisation of the identified clusters of hotels, AirBnBs, and Cultural venues](figures/5cluster_map(with inset)_dupsremoved.png)
 
 ### Case Study: Westminster - what counts as culture? 
 
@@ -167,7 +164,7 @@ Clustering analysis was used to identify broad characteristics of neighnbourhood
 - AirBnB Density
 - Cultural Density
 
-
+K-means clustering is a technique used to minimise distance between centroids of data points, allowing clusters to be identified iterativley. As each centroid is updated the distance is recauculated, running until the centroid no longer changes. A key advantage of k-means clustering is the ease of use and efficency of computation, though can be biased by irregular patterns within the data. 
 
 ## References
 

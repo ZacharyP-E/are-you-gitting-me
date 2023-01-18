@@ -153,9 +153,8 @@ Outside of the core cluster in central London, pockets of 'culture dense' neighb
 
 ## Conclusion (50)
 
-With the resulting 5 groups of clusters it is proposed that  investments (maybe another word needed) should be made in select areas (orange?), allowing for a boost to the tourism sector, and therefore the creation of jobs. 
+The spatial distribution of Airbnb listings, in relation to hotels and cultural infrastructure, provides an insight into how patterns of Airbnb activity change across different areas of London. Of the 5 clusters identified, the ‘green’ and ‘orange’ zones require greatest policy attention to ensure Airbnb can support burgeoning cultural economies without unnecessary impact upon neighbourhoods, rental price and gentrification.
 
-xx
 
 ## References
 
@@ -216,3 +215,4 @@ J Allen Whitt 1987: The Arts Coalition and the Urban Growth Machine
 4.    Conclusion (~250)
 5.    Appendix: Methodology & Data (~100)
 6.    References
+

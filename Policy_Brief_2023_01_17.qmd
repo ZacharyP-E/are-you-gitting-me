@@ -77,7 +77,7 @@ Professional hosts, defined as those who hold more than one Airbnb listing, earn
 
 This brief looks for a balanced solution, where London is able to reap the significant economic benefits of the sharing economy, without displacing local residents and undermining their significant cultural contribution to the city.
 
-The literature indicates that the benefits of Airbnb tend to subside after they pass a threshold of professionalisation (Fang, Ye, Law, 2015). This brief identifies key areas where Airbnb’s operations continue to make a positive impact on local economies, and areas where interventions should be implemented to avoid the displacement of local residents and a monopoly of professional Airbnb hosts.
+The literature indicates that the benefits of Airbnb tend to subside after they pass a threshold of professionalisation (Fang, Ye, Law, 2015). This brief identifies key areas where Airbnb’s operations continue to make a positive impact on local economies, and areas where interventions should be implemented to avoid the displacement of local residents.
 
 ### Airbnb and Hotels
 
@@ -86,14 +86,10 @@ Airbnb resulted in a significant disruption of the hotel industry after it enter
 Presenting an alternative to hotels – one of traditionally few options for temporary accommodation – the platform has growth rapidly in the last eight years by providing a wide variety of dwelling types, cheaper rental prices and a sense of authenticity. Some studies have found the hotel industry experiences an average 0.04 per cent decrease in hotel revenue for every one per cent in Airbnb listings (Zervas, Proserpio, & Byers, 2016).
 
 
-(wc: 720)
-
-
 ![Venn Diagram of instersection between Culture, Hotel and AirBnB Density](figures/venn_brief.png)
 
 ## Objectives (200)
 
-### 
 
 #### Establish where there are overlaps and disconnects between AirBnB's operations, hotel density, and cultural infrastructure 
 

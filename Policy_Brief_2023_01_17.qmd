@@ -40,8 +40,9 @@ jupyter:
 
 ## Executive Summary (200)
 
-
 This brief explores how Airbnb’s operations interact with London’s cultural infrastructure – such as theatres, museums, music venues, pubs  – as well as its hotel industry, to build a holistic picture of Airbnb’s short- and long-term impact on culture across Greater London.
+
+Change from Mike
 
 
 It finds that:

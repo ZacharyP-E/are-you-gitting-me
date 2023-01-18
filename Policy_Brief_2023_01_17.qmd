@@ -21,7 +21,17 @@ format:
     number-sections: true
     colorlinks: true
     highlight-style: github
-
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.14.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
 
 # Evaluate whether Airbnb operation should be encouraged in relationship to hotels: A Cultural perspective
@@ -137,7 +147,7 @@ The borough of Westminster contains some counterintuitive results results. It co
 Airbnb acts as an accelerator for culture, providing accommodation in areas of emerging cultural development, what the hotel industry can’t immediately accommodate. Croydon is a prime example of such. Located in zone 5, Croydon has won a £1 million bid in cultural funding, named the London Borough of Culture of 2023. Recognised for its emerging cultural importance within London, in particular, Boxpark, Croydon Pride Festival, the prominent black-led Talawa Theatre Company and The Ends music Festival, Croydon serves as a cultural hub for black British culture, and attracting much more. Airbnb’s flexible operations had encouraged extra-Croydon visitors.  
 
 ### Case study: East London  
-Outside of the core cluster in central London, a node of 'culture dense' neighbourhoods is identified in East London, centred on Shoreditch and Spitalfields, and stretching outward to Haggerston, Dalston and Bethnal Green. These neighbourhoods are characterised by a high density of music venues and pubs in close proximity with artist workspaces, studios, creative co-working spaces, and community centres. Like other neighbourhoods in the 'culture dense' cluster, these areas have well-established cultural institutions, creative communities, or night time economies, or a combination of all three. *add refs on gentrification in Shoreditch, Hackney* 
+Outside of the core cluster in central London, a node of 'culture dense' neighbourhoods is identified in East London, centred on Shoreditch and Spitalfields, and stretching outward to Haggerston, Dalston and Bethnal Green. These neighbourhoods are characterised by a high density of music venues and pubs in close proximity with artist workspaces, studios, creative co-working spaces, and community centres (GLA cultmap ref). Like other neighbourhoods in the 'culture dense' cluster, these areas have well-established cultural institutions, creative communities, or night time economies, or a combination of all three. *add refs on gentrification in Shoreditch, Hackney* In the city centre, the predominance of commercial, cultural and community spaces likely limits the availability of residential housing which could be converted to Airbnb. This leads to a pattern of 'green' cluster zones (high airbnb in areas of medium culture-medium hotels) that tend to surround the edges of culture-dense red zones, as adjacent areas. 
 
 
 *Notes on Cluster Zero (for reference; not for inclusion in final report)*
@@ -224,4 +234,3 @@ J Allen Whitt 1987: The Arts Coalition and the Urban Growth Machine
 4.    Conclusion (~250)
 5.    Appendix: Methodology & Data (~100)
 6.    References
-

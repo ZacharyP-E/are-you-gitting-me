@@ -42,24 +42,21 @@ jupyter:
 
 This brief explores how Airbnb’s operations interact with London’s cultural infrastructure – such as theatres, museums, music venues, pubs  – as well as its hotel industry, to build a holistic picture of Airbnb’s short- and long-term impact on culture across Greater London.
 
-Change from Mike
-
 
 It finds that:
 
-1. 
-2. There are several areas, including X, Y and Z,  continue to benefit economically from the presence of Airbnbs. But that others, such as X, Y and Z, would benefit from intervention from City Hall to avoid rising prices and the displacement of local residents.
+1. There is a clear pattern in how AirBnB listings, cultural infrastructure, and hotels cluster together in London – predominantly in the city centre.
+2. There are some areas with relatively higher concentrations of AirBnB and cultural infrastructure relative to hotels. These areas may represent emerging economic opportunity, along with an increased risk of gentrification. 
 
 These findings are important because:
 
-1. 
-2. 
+1. AirBnB's presence in London holds risk for the hotel industry (by taking market share away from existing businesses) and opportunity for cultural activity (by increasing access to culture for tourists).
+2. Balancing these risks and opportunities are important for the future of the hospitality industry in London, as well as the city's identity and cultural economy. 
 
 It recommends the following policies to ensure Londoners can benefit from the presence of Airbnb and the hotel industry does not suffer an additional hit as it emerges from pandemic restrictions:
 
-•	X;
-•	Y; and
-•	Z.
+1. The city adopts consistent regulation for AirBnBs.
+2. The city focuses its enforcement on this regulation in areas where AirBnB and cultural infrastructure are relatively higher-concentrated than hotels. 
 
 
 ## Background (650)

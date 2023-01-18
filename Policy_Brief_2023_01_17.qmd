@@ -97,7 +97,7 @@ Clustering analysis was used to identify broad characteristics of neighnbourhood
 
 The individual distributions are shown in Figure 1:
 
-![Figure 1: Spatial distributions of the three variables](figures/maps_of_variables.png)
+![Spatial distributions of the three variables](figures/maps_of_variables.png)
 
 
 
@@ -113,7 +113,7 @@ On a more granular scale, the analysis identified 5 distinct groups of hotel, Ai
 
 
 
-![Figure 2: Identified clusters of hotels, Airbnbs, and Cultural venues](figures/5cluster_map(with inset)_dupsremoved.png)
+![Identified clusters of hotels, Airbnbs, and Cultural venues](figures/5cluster_map(with inset)_dupsremoved.png)
 
 
 
